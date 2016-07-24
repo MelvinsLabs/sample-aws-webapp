@@ -1,0 +1,10 @@
+# IntelliJ IDE Project Settings
+*.idea/
+*.iml
+# Eclipse IDE Workspace Settings
+*.settings/
+*.classpath
+*.project
+# Application Specific
+*target/
+*.log
